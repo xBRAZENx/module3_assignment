@@ -4,12 +4,12 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: #000000;
+	color: green;
 }
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: gray;
 
 }
 
@@ -49,7 +49,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: red;
 }
 
 #beef {
@@ -63,7 +63,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: brown;
 }
 
 #sushi {
@@ -76,7 +76,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: blue;
 	color: white;
 	padding: 5px;
 }
